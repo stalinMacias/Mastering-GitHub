@@ -1,0 +1,3 @@
+This file was created before the stage command was applied!
+
+This line was written before recover the work that was saved with the stage command!
