@@ -1,1 +1,3 @@
 This file was created once the stage command was executed!
+
+this line was written after stashing the file3.txt
