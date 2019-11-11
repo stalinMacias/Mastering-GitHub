@@ -1,13 +1,8 @@
 This file was created once the stage command was executed!
 
-<<<<<<< Updated upstream
 this line was written after stashing the file3.txt
 
-
-
 Now this line was written after the Working Directory was stashed!
-=======
 this line was written after stashing the file3.txt (I made a mistake!)
 
 Last update, now this line was written before create a new file that it won't be tracked by git but anyways it'll be stash along with this!
->>>>>>> Stashed changes

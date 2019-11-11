@@ -1,0 +1,1 @@
+This file it won't be tracked by git before stash the working directory, but anyways it'll be stashed!
